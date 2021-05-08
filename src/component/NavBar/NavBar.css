@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #ffb1a5;
+    color:#303030;
+    height: 50px;
+}
+
+.navbar-brand{
+    font-family: 'Special Elite', cursive;
+    color:#303030;
+}
+
+.nav-link{
+    font-family: 'Special Elite', cursive;
+    color:#303030;
+}
