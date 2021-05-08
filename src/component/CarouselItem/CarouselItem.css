@@ -1,13 +1,21 @@
 .caption{
     background-color: #303030;
-    margin-left: -8vw;
+    margin-left: -9vw;
     margin-top: -15vh;
-    width: 100%; 
+    width: 56vw; 
 }
 
+.title{
+    color: #6dc4ca;
+  }
+
+.title:hover {
+    color: #e16538;
+  }
+
 .description {
-    width: 100%;
-    top: 0;
+    width: 90%;
+    padding-left: 10%;
     bottom: auto;
 }
 

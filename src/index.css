@@ -17,6 +17,7 @@ body {
   flex-basis: auto;
   position: static;
   margin-bottom: 5%;
+  box-shadow: 0px 30px 40px -25px rgba(0, 0, 0, 1);
 }
 
 .card-img-top{
