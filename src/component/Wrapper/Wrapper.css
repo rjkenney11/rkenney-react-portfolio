@@ -1,4 +1,7 @@
 .wrapper {
+  background-size: 100% 100%;
+  background-color: #303030;
+  font-family: 'Special Elite', cursive;
   min-height: 100%;
   padding-bottom: 100px;
 }
