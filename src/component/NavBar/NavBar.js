@@ -8,7 +8,7 @@ function NavBar() {
   return (
     <nav className="navbar navbar-light navbar-expand-lg">
 
-        <Link to ="/" className="navbar-brand text-white">RK</Link>
+        <Link to ="/" className="navbar-brand text-white">Rachel Kenney</Link>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1">
             <span className="navbar-toggler-icon"></span>
         </button>
