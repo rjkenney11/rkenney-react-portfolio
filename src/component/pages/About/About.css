@@ -3,7 +3,7 @@
     height: 1050px;
     width: 780px;
     padding-top: 0px;
-    background-color: #efdfc8;
+    background-color: #fadec3;
     margin-top: 25px;
     margin-left: 21%;
     font-family: 'Special Elite', cursive;
@@ -34,12 +34,13 @@
 
 hr {
     width: 100%;
-    height: 2px;
+    height: 2rem;
     margin-left: 0px;
     margin-right: 10px;
     background-color:#000;
     border: 0 none;
+    border-width: 2rem;
     margin-top: 0px;
     margin-bottom:5px;
-}
+  }
 

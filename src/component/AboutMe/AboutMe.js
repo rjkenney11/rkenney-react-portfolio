@@ -4,9 +4,9 @@ import React from "react";
 import "./AboutMe.css";
 
 function AboutMe() {
-    return (
+  return (
         <div className="jumbotron">
-            <img src="https://user-images.githubusercontent.com/74163812/112648748-312c0c00-8e20-11eb-8442-dcd8e707143c.png"
+            <img src="https://user-images.githubusercontent.com/74163812/117556525-e402a300-b037-11eb-9a20-e169f72d4d6d.png"
                 className="card-img-top" alt="Rachel-Banner"></img>
              <hr></hr>
             <hr></hr>

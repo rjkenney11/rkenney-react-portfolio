@@ -1,6 +1,8 @@
-.btn{
+.contactBtn{
+    background-color: #779e99 !important;
+    border-color: #779e99 !important;
     font-family: 'Special Elite', cursive;
-    background-color: #6dc6cc;
+    color:black;
 }
 
 .advert{
