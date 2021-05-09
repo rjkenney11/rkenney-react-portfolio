@@ -8,15 +8,19 @@ import FourImage from "../../assets/Images/VoxMachina.png";
 import FithImage from "../../assets/Images/Bebbanburgers.png";
 import SixImage from"../../assets/Images/DayPlanner.png";
 import SevenImage from"../../assets/Images/TeamProfile.png";
+import EighthImage from "../../assets/Images/DPad.png";
+import NinthImage from "../../assets/Images/D-Pad2.png";
 
 const SLIDE = [
     { alt:"First slide",title:'Adventure Companion',href:"https://bartok1945.github.io/adventure_companion/",src:`${FirstImage}`,Description:"A dynamic digital character sheet for Dungeons & Dragons", state:" carousel-item active"},
-    { alt:"Second slide",title:'Pallet Town Pokedex',href:"https://vast-forest-11479.herokuapp.com/",src:`${SecondImage}`,Description:"Demonstrated the base utilization of CRUD by creating an app to organize and keep track of your Pokemon Cards.",state:"carousel-item"},
-    { alt:"Third slide",title:'Pallet Town Pokedex (Part 2)',href:"https://vast-forest-11479.herokuapp.com/",src:`${ThirdImage}`,Description:"Demonstrated the base utilization of CRUD by creating an app to organize and keep track of your Pokemon Cards.",state:"carousel-item"},
+    { alt:"Second slide",title:'D-Pad',href:"https://github.com/Bartok1945/d_pad",src:`${EighthImage}`,Description:"D-Pad is an app allows users to browse video games and organize their favorites with ease.",state:"carousel-item"},
+    { alt:"Third slide",title:'D-Pad (Part 2)',href:"https://github.com/Bartok1945/d_pad",src:`${NinthImage}`,Description:"D-Pad is an app allows users to browse video games and organize their favorites with ease.",state:"carousel-item"},
     { alt:"Fourth slide",title:'Vox Machina Quiz',href:"https://rjkenney11.github.io/Vox-Machina-Quiz/",src:`${FourImage}`,Description:"A timed quiz to test your Critical Role knowledge.",state:"carousel-item"},
     { alt:"Fith slide",title:'Bebbanburgers',href:"https://intense-scrubland-85974.herokuapp.com/",src:`${FithImage}`,Description:"an app for a fictional restaurant based on the Netflix show, The Last Kingdom.",state:"carousel-item"},
-    { alt:"Six slide",title:'Daily Work Planner',href:"https://rjkenney11.github.io/work_planner/",src:`${SixImage}`,Description:"a simple calendar application that allows a user to save events for each hour of the day.",state:"carousel-item"},
-    { alt:"Seven slide",title:'Team Profile Generator',href:"https://drive.google.com/file/d/1hc6GFoRuRzk71ktqlvzuC4_jPHDOjbIx/view",src:`${SevenImage}`,Description:"a Node.js command-line app to generate employee profile"},
+    { alt:"Six slide",title:'Pallet Town Pokedex',href:"https://vast-forest-11479.herokuapp.com/",src:`${SecondImage}`,Description:"Demonstrated the base utilization of CRUD by creating an app to organize and keep track of your Pokemon Cards.",state:"carousel-item"},
+    { alt:"Seven slide",title:'Pallet Town Pokedex (Part 2)',href:"https://vast-forest-11479.herokuapp.com/",src:`${ThirdImage}`,Description:"Demonstrated the base utilization of CRUD by creating an app to organize and keep track of your Pokemon Cards.",state:"carousel-item"},
+    { alt:"Eighth slide",title:'Team Profile Generator',href:"https://drive.google.com/file/d/1hc6GFoRuRzk71ktqlvzuC4_jPHDOjbIx/view",src:`${SevenImage}`,Description:"a Node.js command-line app to generate employee profile"},
+    { alt:"Ninth slide",title:'Daily Work Planner',href:"https://rjkenney11.github.io/work_planner/",src:`${SixImage}`,Description:"a simple calendar application that allows a user to save events for each hour of the day.",state:"carousel-item"},
 ]
 
 class CarouselItem extends React.Component {
