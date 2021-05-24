@@ -6,7 +6,7 @@ function NavBar() {
  
   // const location = useLocation();
   return (
-    <nav className="navbar navbar-light navbar-expand-lg">
+    <nav className="navbar navbar-dark navbar-expand-lg">
 
         <Link to ="/" className="navbar-brand text-white">Rachel Kenney</Link>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1">
@@ -16,16 +16,20 @@ function NavBar() {
             
           <ul className="navbar-nav ml-auto">
             <li className="nav-item ">
-                <Link to = "/About" className="nav-link atag">About</Link>
+                <Link to = "/About" className="nav-link atag">About Me</Link>
             </li>
 
-            <li className="nav-item active">
-                <Link to = "/Contact" className="nav-link atag">Contact</Link>
+            <li className="nav-item">
+                <Link to = "/Contact" className="nav-link atag">Contact Me</Link>
                 
             </li>
       
             <li className="nav-item ">
-                <Link to = "/Portfolio" className="nav-link atag">Portfolio</Link>
+                <Link to = "/Portfolio" className="nav-link atag">Web Design Portfolio</Link>
+                
+            </li>
+            <li className="nav-item ">
+                <Link to = "/Designs" className="nav-link atag">Graphic Design</Link>
                 
             </li>
           </ul>
