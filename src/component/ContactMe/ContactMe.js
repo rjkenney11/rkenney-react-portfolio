@@ -21,7 +21,7 @@ function ContactMe() {
                                     Facebook!</a>
                             <br></br>
                             <br></br>
-                            <a href="https://www.linkedin.com/in/rachel-kenney-98b03b156/" type="button"
+                            <a href="https://www.linkedin.com/in/rachel-kenney220/" type="button"
                                 className="btn btn-info contactBtn">Link with me on LinkedIn!</a>
                             <br></br>
                             <br></br>
