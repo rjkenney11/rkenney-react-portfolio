@@ -14,7 +14,7 @@ function ContactMe() {
                         <div className="col-md-6">
                             <h1 className="links-display-4">Check Me Out</h1>
                             <hr className="my-4"></hr>
-                            <a href="mailto:rjkenney11@gmail.com" type="button" className="btn btn-info contactBtn">Email Me!</a>
+                            <a href="mailto:rjkenney220@gmail.com" type="button" className="btn btn-info contactBtn">Email Me!</a>
                             <br></br>
                             <br></br>
                             <a href="https://www.facebook.com/rachel.kenney.37/" type="button" className="btn btn-info contactBtn">Stalk Me On
@@ -22,7 +22,7 @@ function ContactMe() {
                             <br></br>
                             <br></br>
                             <a href="https://www.linkedin.com/in/rachel-kenney-98b03b156/" type="button"
-                                className="btn btn-info contactBtn">Click here to be unimpressed!</a>
+                                className="btn btn-info contactBtn">Link with me on LinkedIn!</a>
                             <br></br>
                             <br></br>
                             <a href="https://github.com/rjkenney11" type="button"
