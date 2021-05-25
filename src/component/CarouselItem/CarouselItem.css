@@ -13,6 +13,17 @@
     color: #e16538;
   }
 
+.fa-github{
+    color: #e16538;
+    font-size: 4vh;
+    text-decoration: none;
+}
+
+.fa-github:hover {
+    color: #6dc4ca;
+    text-decoration: none;
+}
+
 .description {
     width: 90%;
     padding-left: 10%;
