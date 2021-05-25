@@ -29,7 +29,7 @@ function ContactMe() {
                                 className="btn btn-info contactBtn">GitHub: Where the Magic Happens</a>
                             <br></br>
                             <br></br>
-                            <a href="https://github.com/rjkenney11/homework-4/files/5960275/RachelKenney2021.pdf" download="rachelResume" type="button"
+                            <a href="https://github.com/rjkenney11/rkenney-react-portfolio/files/6541039/Rachel.Kenney.Resume.2021.pdf" download="rachelResume" type="button"
                                 className="btn btn-info contactBtn">A list of noteable accomplishments: My Resume</a>
 
                         </div>
