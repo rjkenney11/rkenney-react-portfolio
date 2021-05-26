@@ -44,6 +44,12 @@ hr {
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) { 
 
+    body {
+      background-size: 100% 100%;
+      background-color: #303030;
+      font-family: 'Special Elite', cursive;
+     }
+
   .jumbotron{
     padding: 0px;
     height: 50%;
@@ -55,8 +61,6 @@ hr {
     font-size: small;
     border-style: solid;
     flex-basis: auto;
-    overflow-y: auto;
-    margin-bottom: 5%;
   }
 
   .card-img-top{

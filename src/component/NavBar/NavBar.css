@@ -14,3 +14,31 @@
     margin-right: 1vw;
     color:#303030;
 }
+
+@media only screen 
+and (min-device-width: 320px) 
+and (max-device-width: 480px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait) { 
+
+    .navbar{
+        background-color: #f6bba2;
+        color:#303030;
+        height: 50px;
+    }
+    
+    .navbar-brand{
+        background-color: #f6bba2;
+        font-family: 'Special Elite', cursive;
+        color:#303030;
+    }
+    
+    .nav-link{
+        width: 100%;
+        text-align: right;
+        background-color: #779e99;
+        font-family: 'Special Elite', cursive;
+        color:#303030;
+    }
+
+} 
