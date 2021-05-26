@@ -37,3 +37,33 @@ hr {
   margin-top: 0px;
   margin-bottom:5px;
 }
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+
+  .jumbotron{
+    padding: 0px;
+    height: 50%;
+    width: 100%;
+    padding-top: 0px;
+    background-color: #fadec3;
+    margin-left: 0%;
+    font-family: 'Special Elite', cursive;
+    font-size: small;
+    border-style: solid;
+    flex-basis: auto;
+    overflow-y: auto;
+    margin-bottom: 5%;
+  }
+
+  .card-img-top{
+    margin-left: 0px;
+    height: 20%;
+    width: 100%;
+    margin-bottom: 0px;
+  }
+
+} 

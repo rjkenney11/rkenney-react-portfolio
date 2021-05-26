@@ -1,16 +1,3 @@
-.jumbotron{
-    padding: 0px;
-    height: 1050px;
-    width: 780px;
-    padding-top: 0px;
-    background-color: #fadec3;
-    margin-top: 25px;
-    margin-left: 21%;
-    font-family: 'Special Elite', cursive;
-    border-style: solid;
-    flex-basis: auto;
-    
-}
 
 .container-text{
     padding: 35px;
@@ -25,4 +12,3 @@
     height: 210px;
     width: 220px;
 }
-
