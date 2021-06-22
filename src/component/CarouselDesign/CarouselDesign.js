@@ -3,10 +3,11 @@ import "./CarouselDesign.css";
 import Carousel from 'react-bootstrap/Carousel';
 import FirstImage from "../../assets/Images/Cicadon'tCare.png";
 import SecondImage from "../../assets/Images/SnakeNBake.png";
-import ThirdImage from "../../assets/Images/Podcast.png";
+import ThirdImage from "../../assets/Images/NautigirlLabel.png";
 
 const SLIDE = [
     { alt:"First slide",pictitle:'Cicada Beer Can Label',src:`${FirstImage}`,Description:"Original drawing/design for local brewery- May 2021", state:" carousel-item active"},
+    { alt:"Third slide",pictitle:'Nauti Girl Beer Can Label',src:`${ThirdImage}`,Description:"Original drawing/design. Not available for use.",state:"carousel-item"},
     { alt:"Second slide",pictitle:'Medusa Beer Can Label',src:`${SecondImage}`,Description:"Original drawing/design available for use by breweries. Changes can be made upon request. Inquire by email.",state:"carousel-item"},
 ]
 
