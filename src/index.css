@@ -71,3 +71,39 @@ hr {
   }
 
 } 
+
+@media only screen 
+and (min-device-width: 768px) 
+and (max-device-width: 1366px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait) { 
+  .RachelKenney{
+      height: 11vh;
+      width: 16vw;
+  }
+
+  .container-text{
+      padding: 2%;
+  }
+
+  .card-img-top{
+    margin-left: 0px;
+    height: 30%;
+    width: 100%;
+    margin-bottom: 0px;
+  }
+
+  .jumbotron{
+    padding: 0px;
+    height: 50%;
+    width: 90%;
+    padding-top: 0px;
+    background-color: #fadec3;
+    margin-left: 5%;
+    font-family: 'Special Elite', cursive;
+    font-size: 18px;
+    border-style: solid;
+    flex-basis: auto;
+  }
+
+} 

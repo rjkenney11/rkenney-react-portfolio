@@ -42,3 +42,20 @@
     
   
   } 
+
+  @media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1366px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+
+
+    .contactBtn{
+        background-color: #779e99 !important;
+        border-color: #779e99 !important;
+        font-family: 'Special Elite', cursive;
+        color:black;
+    }
+    
+  
+  } 

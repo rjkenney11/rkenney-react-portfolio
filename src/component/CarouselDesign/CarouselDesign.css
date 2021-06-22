@@ -59,3 +59,36 @@
    
    } 
    
+@media only screen 
+and (min-device-width: 768px) 
+and (max-device-width: 1366px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait) { 
+
+    .carousel-caption{
+        width: 100%;
+        font-size: 18px;
+
+    }
+    .caption{
+        background-color: #303030;
+        margin-bottom: 4vh;
+        margin-left: -13vw;
+    }
+
+    #divInfo{
+        font-family: 'Special Elite', cursive;
+       }
+     
+       .fa-github{
+        color: #e16538;
+        font-size: 3vh;
+        text-decoration: none;
+    }
+    
+    .fa-github:hover {
+        color: #6dc4ca;
+        text-decoration: none;
+    }
+
+} 
