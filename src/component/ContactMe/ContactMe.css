@@ -33,7 +33,7 @@
         display: none;
     }
 
-    .contactBtn{
+    #contactBtn{
         background-color: #779e99 !important;
         border-color: #779e99 !important;
         font-family: 'Special Elite', cursive;

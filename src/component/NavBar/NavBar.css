@@ -33,7 +33,7 @@ and (orientation: portrait) {
         color:#303030;
     }
     
-    .nav-link{
+    #nav-link{
         width: 100%;
         text-align: right;
         background-color: #779e99;
