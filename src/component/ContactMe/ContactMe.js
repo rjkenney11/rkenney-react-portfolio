@@ -4,7 +4,7 @@ import "./ContactMe.css";
 function ContactMe() {
     return (
         <div className="jumbotron">
-            <img src="https://user-images.githubusercontent.com/74163812/117556525-e402a300-b037-11eb-9a20-e169f72d4d6d.png"
+            <img src="https://user-images.githubusercontent.com/74163812/123679757-e1d9eb00-d815-11eb-82ec-7f1cc84738f1.png"
                 className="card-img-top" alt="Rachel-Banner"></img>
             <hr></hr>
             <hr></hr>
@@ -14,23 +14,23 @@ function ContactMe() {
                         <div className="col-md-6">
                             <h1 className="links-display-4">Check Me Out</h1>
                             <hr className="my-4"></hr>
-                            <a href="mailto:rjkenney220@gmail.com" type="button" className="btn btn-info contactBtn">Email Me!</a>
+                            <a href="mailto:rjkenney220@gmail.com" type="button" className="btn btn-info contactBtn" id="contactBtn">Email Me!</a>
                             <br></br>
                             <br></br>
-                            <a href="https://www.facebook.com/rachel.kenney.37/" type="button" className="btn btn-info contactBtn">Stalk Me On
+                            <a href="https://www.facebook.com/rachel.kenney.37/" type="button" className="btn btn-info contactBtn" id="contactBtn">Stalk Me On
                                     Facebook!</a>
                             <br></br>
                             <br></br>
                             <a href="https://www.linkedin.com/in/rachel-kenney220/" type="button"
-                                className="btn btn-info contactBtn">Link with me on LinkedIn!</a>
+                                className="btn btn-info contactBtn" id="contactBtn">Link with me on LinkedIn!</a>
                             <br></br>
                             <br></br>
                             <a href="https://github.com/rjkenney11" type="button"
-                                className="btn btn-info contactBtn">GitHub: Where the Magic Happens</a>
+                                className="btn btn-info contactBtn" id="contactBtn">GitHub: Where the Magic Happens</a>
                             <br></br>
                             <br></br>
                             <a href="https://github.com/rjkenney11/rkenney-react-portfolio/files/6548397/Rachel.Kenney.Resume.21.pdf" download="rachelResume" type="button"
-                                className="btn btn-info contactBtn">A list of noteable accomplishments: My Resume</a>
+                                className="btn btn-info contactBtn" id="contactBtn">A list of noteable accomplishments: My Resume</a>
 
                         </div>
                         <div className="col-md-6">

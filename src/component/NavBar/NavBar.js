@@ -16,20 +16,20 @@ function NavBar() {
             
           <ul className="navbar-nav ml-auto">
             <li className="nav-item ">
-                <Link to = "/About" className="nav-link atag">About Me</Link>
+                <Link to = "/About" className="nav-link atag" id="nav-link">About Me</Link>
             </li>
 
             <li className="nav-item">
-                <Link to = "/Contact" className="nav-link atag">Contact Me</Link>
+                <Link to = "/Contact" className="nav-link atag" id="nav-link">Contact Me</Link>
                 
             </li>
       
             <li className="nav-item ">
-                <Link to = "/Portfolio" className="nav-link atag">Web Design Portfolio</Link>
+                <Link to = "/Portfolio" className="nav-link atag" id="nav-link">Web Design Portfolio</Link>
                 
             </li>
             <li className="nav-item ">
-                <Link to = "/Designs" className="nav-link atag">Graphic Design</Link>
+                <Link to = "/Designs" className="nav-link atag" id="nav-link">Graphic Design</Link>
                 
             </li>
           </ul>

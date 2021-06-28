@@ -1,6 +1,6 @@
-.contactBtn{
-    background-color: #779e99 !important;
-    border-color: #779e99 !important;
+#contactBtn{
+    background-color: #779e99;
+    border-color: #779e99;
     font-family: 'Special Elite', cursive;
     color:black;
 }
@@ -50,9 +50,9 @@
   and (orientation: portrait) { 
 
 
-    .contactBtn{
-        background-color: #779e99 !important;
-        border-color: #779e99 !important;
+    #contactBtn{
+        background-color: #779e99;
+        border-color: #779e99;
         font-family: 'Special Elite', cursive;
         color:black;
     }
