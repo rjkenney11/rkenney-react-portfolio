@@ -7,8 +7,8 @@
 }
 
 .RachelKenney{
-    height: 37vh;
-    width: 20vw;
+    height: 40%;
+    width: 40%;
 }
 
 @media only screen 
@@ -17,8 +17,8 @@
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) { 
     .RachelKenney{
-        height: 15vh;
-        width: 35vw;
+        height: 40%;
+        width: 40%;
     }
 
     .container-text{
@@ -34,8 +34,8 @@
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) { 
     .RachelKenney{
-        height: 11vh;
-        width: 16vw;
+        height: 40%;
+        width: 40%;
     }
 
     .container-text{
@@ -51,8 +51,7 @@
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) { 
     .RachelKenney{
-        height: 15vh;
-        width: 35vw;
+        width: 40%;
     }
 
     .container-text{
