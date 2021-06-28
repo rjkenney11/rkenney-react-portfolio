@@ -1,8 +1,21 @@
-.caption{
+.my-4 { position:relative; }
+
+.caption {
     background-color: #303030;
-    margin-left: -8.2vw;
-    margin-top: -15vh;
+    bottom:0;
+    left:0;
+    position:absolute;
     width: 100%; 
+}
+.carousel-control-next, .carousel-control-prev {
+    z-index:11;
+}
+.jumbotron-body .carousel-control-next-icon, .jumbotron-body .carousel-control-prev-icon {
+    background-color: rgba(0, 0, 0, .5);
+    padding: 16px;
+    box-sizing: content-box;
+    border-radius: 50%;
+    background-size: 60% 60%;
 }
 
 .title{
