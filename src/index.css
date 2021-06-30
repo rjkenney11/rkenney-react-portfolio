@@ -83,8 +83,8 @@ and (max-device-width: 1366px)
 and (-webkit-min-device-pixel-ratio: 2)
 and (orientation: portrait) { 
   .RachelKenney{
-      height: 11vh;
-      width: 16vw;
+      height: 40%;
+      width: 40%;
   }
 
   .container-text{
