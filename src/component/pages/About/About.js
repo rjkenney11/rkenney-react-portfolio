@@ -7,7 +7,7 @@ import AboutMe from "../../AboutMe/AboutMe";
 function About() {
   return (
     <div>
-    <NavBar />
+    <NavBar /> 
     <Wrapper>
       <AboutMe />
     </Wrapper>
