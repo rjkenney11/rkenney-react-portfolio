@@ -7,7 +7,6 @@
     position:absolute;
     width: 100%; 
     height: 25%;
-    margin-top: 50%;
 }
 .carousel-control-next, .carousel-control-prev {
     z-index:11;
@@ -52,7 +51,8 @@
 .image{
     width: 100%;
     height: 100%;
-    padding-bottom: 20vh;
+    padding-bottom: 100px;
+    /* padding-bottom: 20vh; */
 }
 
 #divInfo{
