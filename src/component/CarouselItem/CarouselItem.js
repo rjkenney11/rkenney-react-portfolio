@@ -40,6 +40,7 @@ class CarouselItem extends React.Component {
                 <div className = "captionDiv">
                 <Carousel.Caption className = "caption" id ="#divInfo">
                     <a href ={sl.href} className = "title">{sl.title}</a>
+                    <p className = "pictitle">{sl.pictitle}</p>
                     <p className = "description">{sl.Description}</p>
                     <a href ={sl.github} className = "fab fa-github"></a>
                 </Carousel.Caption>
