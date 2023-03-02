@@ -13,7 +13,7 @@ import NinthImage from "../../assets/Images/D-Pad2.png";
 import TenthImage from "../../assets/Images/dpadgif.gif";
 
 const SLIDE = [
-    { alt:"First slide",pictitle:'D-Pad',src:`${EighthImage}`,Description:"Using sing React, JavaScript & CSS, I designed most of the front-end for this video game browsing app.", github: "https://github.com/Bartok1945/d_pad", state:"carousel-item active"},
+    { alt:"First slide",pictitle:'D-Pad',src:`${EighthImage}`,Description:"Using React, JavaScript & CSS, I designed most of the front-end for this video game browsing app.", github: "https://github.com/Bartok1945/d_pad", state:"carousel-item active"},
     { alt:"Second slide",pictitle:'D-Pad',src:`${NinthImage}`,Description:"D-Pad allowed users to browse video games and organize their favorites with ease.", github: "https://github.com/Bartok1945/d_pad", state:"carousel-item"},
     { alt:"Third slide",pictitle:'D-Pad',src:`${TenthImage}`,Description:"For the login page's banner, I designed multiple gaming-centric graphics and turned them into a gif for a dynamic user interaction.", github: "https://github.com/Bartok1945/d_pad", state:"carousel-item"},
     { alt:"Fourth slide",title:'Adventure Companion',href:"https://bartok1945.github.io/adventure_companion/",src:`${FirstImage}`,Description:"A dynamic digital character sheet for Dungeons & Dragons made using HTML, Javascript & CSS.", github: "https://github.com/Bartok1945/adventure_companion", state:" carousel-item"},
