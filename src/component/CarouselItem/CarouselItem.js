@@ -12,7 +12,7 @@ import EighthImage from "../../assets/Images/DPad.png";
 import NinthImage from "../../assets/Images/D-Pad2.png";
 
 const SLIDE = [
-    { alt:"First slide",title:'D-Pad',src:`${EighthImage}`,Description:"D-Pad is an app allows users to browse video games and organize their favorites with ease. Built using React, JavaScript & CSS.", github: "https://github.com/Bartok1945/d_pad", state:"carousel-item active"},
+    { alt:"First slide",title:'D-Pad',src:`${EighthImage}`,Description:"D-Pad is an app allows users to browse and organize their favorite video games. Built using React, JavaScript & CSS.", github: "https://github.com/Bartok1945/d_pad", state:"carousel-item active"},
     { alt:"Second slide",title:'D-Pad',src:`${NinthImage}`,Description:"D-Pad is an app allows users to browse video games and organize their favorites with ease. Built using React, JavaScript & CSS.", github: "https://github.com/Bartok1945/d_pad", state:"carousel-item"},
     { alt:"Third slide",title:'Adventure Companion',href:"https://bartok1945.github.io/adventure_companion/",src:`${FirstImage}`,Description:"A dynamic digital character sheet for Dungeons & Dragons", github: "https://github.com/Bartok1945/adventure_companion", state:" carousel-item"},
     { alt:"Fourth slide",title:'Vox Machina Quiz',href:"https://rjkenney11.github.io/Vox-Machina-Quiz/",src:`${FourImage}`,Description:"A timed quiz to test your Critical Role knowledge.", github: "https://github.com/rjkenney11/Vox-Machina-Quiz", state:"carousel-item"},
