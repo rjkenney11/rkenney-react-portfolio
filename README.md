@@ -13,7 +13,7 @@
 ## Authors
 <ul>
 <li> Rachel Kenney <a href="https://github.com/rjkenney11" target="_blank">rjkenney11</a> </li>
-<li> Access my Personal Portfolio <a href="https://rkenney-portfolio.herokuapp.com/#/">here</a>  </li>
+<li> Access my Personal Portfolio <a href="https://rachelkenney-react-portfolio.herokuapp.com/#/">here</a>  </li>
 </ul>
 
 ## Built With
