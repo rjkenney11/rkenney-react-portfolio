@@ -6,7 +6,6 @@
     left:0;
     position:absolute;
     width: 100%; 
-    height: 140px;
 }
 .carousel-control-next, .carousel-control-prev {
     z-index:11;
@@ -69,7 +68,6 @@
         background-color: #303030;
         margin-bottom: 0vh;
         margin-left: -14.5vw;
-        height: 80px;
     }
 
     #divInfo{
