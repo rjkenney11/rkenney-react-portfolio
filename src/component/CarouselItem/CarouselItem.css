@@ -51,7 +51,7 @@
 .image{
     width: 100%;
     height: 100%;
-    margin-bottom: 80px;
+    margin-bottom: 50vh;
     /* padding-bottom: 20vh; */
 }
 
@@ -90,6 +90,14 @@
         color: #6dc4ca;
         text-decoration: none;
     }
+
+    .image{
+        width: 100%;
+        height: 100%;
+        /* margin-bottom: 80px; */
+        padding-bottom: 20vh;
+    }
+    
    
    } 
    
