@@ -34,7 +34,7 @@ function ContactMe() {
 
                         </div>
                         <div className="col-md-6">
-                            <img src="https://user-images.githubusercontent.com/74163812/113895077-9b389f80-9796-11eb-8e3b-e2fd0b48eac0.png"
+                            <img src="https://user-images.githubusercontent.com/74163812/222328688-e42af699-4eae-408f-8816-80e2a074dc9c.png"
                                 className="advert" alt="Rachel-advert"></img>
                         </div>
                     </div>

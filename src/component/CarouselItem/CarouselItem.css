@@ -22,9 +22,9 @@
     color: #6dc4ca;
   }
 
-/* .title:hover {
-    color: #e16538;
-  } */
+.title:hover {
+    color: #6dc4ca;
+  }
 
 .fa-github{
     color: #e16538;
