@@ -6,7 +6,7 @@
     left:0;
     position:absolute;
     width: 100%; 
-    height: 28%;
+    /* height: 28%; */
 }
 .carousel-control-next, .carousel-control-prev {
     z-index:11;
@@ -51,7 +51,7 @@
 .image{
     width: 100%;
     height: 100%;
-    margin-bottom: 8vh;
+    /* margin-bottom: 8vh; */
 }
 
 #divInfo{
@@ -93,7 +93,7 @@
     .image{
         width: 100%;
         height: 100%;
-        margin-bottom: -2vh;
+        /* margin-bottom: -2vh; */
     }
    
    } 
