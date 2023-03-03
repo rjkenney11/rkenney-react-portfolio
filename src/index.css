@@ -1,7 +1,7 @@
 body {
   background-size: 100% 100%;
   background-color: #303030;
-  font-family: 'Special Elite', cursive;
+  font-family: 'Inter', sans-serif;
  }
 
  .jumbotron{
@@ -12,7 +12,7 @@ body {
   background-color: #fadec3;
   margin-top: 5%;
   margin-left: 19%;
-  font-family: 'Special Elite', cursive;
+  font-family: 'Inter', sans-serif;
   border-style: solid;
   flex-basis: auto;
   position: static;
@@ -52,7 +52,7 @@ hr {
     body {
       background-size: 100% 100%;
       background-color: #303030;
-      font-family: 'Special Elite', cursive;
+      font-family: 'Inter', sans-serif;
      }
 
   .jumbotron{
@@ -62,7 +62,7 @@ hr {
     padding-top: 0px;
     background-color: #fadec3;
     margin-left: 0%;
-    font-family: 'Special Elite', cursive;
+    font-family: 'Inter', sans-serif;
     font-size: small;
     border-style: solid;
     flex-basis: auto;
@@ -105,7 +105,7 @@ and (orientation: portrait) {
     padding-top: 0px;
     background-color: #fadec3;
     margin-left: 5%;
-    font-family: 'Special Elite', cursive;
+    font-family: 'Inter', sans-serif;
     font-size: 18px;
     border-style: solid;
     flex-basis: auto;
