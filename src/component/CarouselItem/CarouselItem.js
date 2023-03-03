@@ -8,7 +8,7 @@ import FourImage from "../../assets/Images/VoxMachina.png";
 import FithImage from "../../assets/Images/Bebbanburgers.png";
 import SixImage from"../../assets/Images/DayPlanner.png";
 import SevenImage from"../../assets/Images/TeamProfile.png";
-import EighthImage from "../../assets/Images/DPad.png";
+import EighthImage from "../../assets/Images/dpadb.png";
 import NinthImage from "../../assets/Images/D-Pad2.png";
 import TenthImage from "../../assets/Images/dpadgif.gif";
 
