@@ -3,7 +3,7 @@ import "./CarouselItem.css";
 import Carousel from 'react-bootstrap/Carousel';
 import FirstImage from "../../assets/Images/AdventureCompanion.png";
 import SecondImage from "../../assets/Images/Pokedex1.png";
-import ThirdImage from "../../assets/Images/Pokedex2.png";
+import ThirdImage from "../../assets/Images/poke2.png";
 import FourImage from "../../assets/Images/VoxMachina.png";
 import FithImage from "../../assets/Images/Bebbanburgers.png";
 import SixImage from"../../assets/Images/DayPlanner.png";
