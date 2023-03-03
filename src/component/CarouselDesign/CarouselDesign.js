@@ -9,11 +9,11 @@ import FifthImage from "../../assets/Images/TadBelPdCst.jpg";
 
 
 const SLIDE = [
-    { alt:"First slide",pictitle:'Cicada Beer Can Label',src:`${FirstImage}`,Description:"Original drawing/design for local brewery- May 2021", state:" carousel-item active"},
-    { alt:"Third slide",pictitle:'Nauti Girl Beer Can Label',src:`${ThirdImage}`,Description:"Original drawing/design. Not available for use.",state:"carousel-item"},
-    { alt:"Second slide",pictitle:'Medusa Beer Can Label',src:`${SecondImage}`,Description:"Original drawing/design available for use by breweries. Changes can be made upon request. Inquire by email.",state:"carousel-item"},
-    { alt:"Fifth slide",pictitle:'Podcast Cover Photo',src:`${FifthImage}`,Description:"Original drawing/design commissioned and created for Baltimore podcast. June 2021",state:"carousel-item"},
-    { alt:"Fourth slide",pictitle:'Recycling Company Logo',src:`${FourthImage}`,Description:"Original drawing/design commissioned and created for recycling company. June 2021",state:"carousel-item"},
+    { alt:"First slide",pictitle:'Cicada Beer Can Label',src:`${FirstImage}`,Description:"Original drawing/design for local brewery. Created using Procreate & Canva.- May 2021", state:" carousel-item active"},
+    { alt:"Third slide",pictitle:'Nauti Girl Beer Can Label',src:`${ThirdImage}`,Description:"Original drawing/design. Created using Procreate & Canva. Not available for use.",state:"carousel-item"},
+    { alt:"Second slide",pictitle:'Medusa Beer Can Label',src:`${SecondImage}`,Description:"Original drawing/design available for use by breweries. Created using Procreate & Canva. Changes can be made upon request. Inquire by email.",state:"carousel-item"},
+    { alt:"Fifth slide",pictitle:'Podcast Cover Photo',src:`${FifthImage}`,Description:"Original portrait drawings/design commissioned and created for Baltimore podcast using Procreate & Canva. June 2021",state:"carousel-item"},
+    { alt:"Fourth slide",pictitle:'Recycling Company Logo',src:`${FourthImage}`,Description:"Original drawing/design commissioned and created for recycling company using Procreate. June 2021",state:"carousel-item"},
 ]
 
 class CarouselDesign extends React.Component {
