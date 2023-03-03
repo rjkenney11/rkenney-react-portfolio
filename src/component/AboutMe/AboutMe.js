@@ -1,4 +1,5 @@
 import React from "react";
+import NavBar from "../../NavBar/NavBar";
 // import { Link } from "react-router-dom";
 
 import "./AboutMe.css";
@@ -7,6 +8,7 @@ function AboutMe() {
   return (
         <div className="jumbotron">
             <img className="card-img-top" src="https://user-images.githubusercontent.com/74163812/123679757-e1d9eb00-d815-11eb-82ec-7f1cc84738f1.png" alt="Rachel-Banner"></img>
+            <NavBar/>
              <hr></hr>
             <hr></hr>
             <div className="container-text">
