@@ -1,4 +1,5 @@
 import React from "react";
+import NavBar from "../../NavBar/NavBar";
 import "./ContactMe.css";
 
 function ContactMe() {
@@ -8,6 +9,7 @@ function ContactMe() {
                 className="card-img-top" alt="Rachel-Banner"></img>
             <hr></hr>
             <hr></hr>
+            <NavBar/>
             <div className="container-text">
                 <div className="jumbotron-body">
                     <div className="row">
