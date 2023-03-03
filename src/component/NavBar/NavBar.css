@@ -5,12 +5,12 @@
 }
 
 .navbar-brand{
-    font-family: 'Special Elite', cursive;
+    font-family: 'Inter', sans-serif;
     color:#303030;
 }
 
 #nav-link{
-    font-family: 'Special Elite', cursive;
+    font-family: 'Inter', sans-serif;
     margin-right: 1vw;
     color:#577d79;
 }
@@ -29,7 +29,7 @@ and (orientation: portrait) {
     
     .navbar-brand{
         background-color: #f6bba2;
-        font-family: 'Special Elite', cursive;
+        ffont-family: 'Inter', sans-serif;
         color:#303030;
     }
     
@@ -37,7 +37,7 @@ and (orientation: portrait) {
         width: 100%;
         text-align: right;
         background-color: #779e99;
-        font-family: 'Special Elite', cursive;
+        font-family: 'Inter', sans-serif;
         color:#303030;
     }
 
@@ -57,7 +57,7 @@ and (orientation: portrait) {
     
     .navbar-brand{
         background-color: #f6bba2;
-        font-family: 'Special Elite', cursive;
+        font-family: 'Inter', sans-serif;
         color:#303030;
     }
     
@@ -65,7 +65,7 @@ and (orientation: portrait) {
         width: 100%;
         text-align: right;
         background-color: #779e99;
-        font-family: 'Special Elite', cursive;
+        font-family: 'Inter', sans-serif;
         color:#303030;
     }
 

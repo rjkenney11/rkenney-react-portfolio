@@ -1,7 +1,7 @@
 #contactBtn{
     background-color: #779e99;
     border-color: #779e99;
-    font-family: 'Special Elite', cursive;
+    font-family: 'Inter', sans-serif;
     color:black;
 }
 
@@ -16,12 +16,12 @@
 
 .contact-display-4{
     color: black;
-    font-family: 'Special Elite', cursive;
+    font-family: 'Inter', sans-serif;
 }
 
 .links-display-4{
     color: black;
-    font-family: 'Special Elite', cursive;
+    font-family: 'Inter', sans-serif;
 }
 
 @media only screen 
@@ -36,7 +36,7 @@
     #contactBtn{
         background-color: #779e99;
         border-color: #779e99;
-        font-family: 'Special Elite', cursive;
+        font-family: 'Inter', sans-serif;
         color:black;
     }
     
@@ -53,7 +53,7 @@
     #contactBtn{
         background-color: #779e99;
         border-color: #779e99;
-        font-family: 'Special Elite', cursive;
+        font-family: 'Inter', sans-serif;
         color:black;
     }
     

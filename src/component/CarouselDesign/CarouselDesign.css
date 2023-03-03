@@ -22,7 +22,7 @@
 }
 
 #divInfo{
-    font-family: 'Special Elite', cursive;
+    font-family: 'Inter', sans-serif;
    }
 
    @media only screen 
@@ -43,7 +43,7 @@
     }
 
     #divInfo{
-        font-family: 'Special Elite', cursive;
+        font-family: 'Inter', sans-serif;
        }
      
        .fa-github{
@@ -77,7 +77,7 @@ and (orientation: portrait) {
     }
 
     #divInfo{
-        font-family: 'Special Elite', cursive;
+        font-family: 'Inter', sans-serif;
        }
      
        .fa-github{
