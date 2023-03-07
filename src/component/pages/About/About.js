@@ -8,7 +8,7 @@ function About() {
   return (
     <div>
     <NavBar /> 
-    <Wrapper>s
+    <Wrapper>
       <AboutMe />
     </Wrapper>
     </div>

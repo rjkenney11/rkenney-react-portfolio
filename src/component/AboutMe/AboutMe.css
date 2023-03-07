@@ -7,8 +7,18 @@
 }
 
 .RachelKenney{
-    height: 40%;
-    width: 40%;
+    margin-top: 5vh;
+    margin-left: 3vh;
+    height: 30%;
+    width: 30%;
+}
+
+.lead{
+    font-weight: 400;
+}
+
+.card-img-top{
+    height: 65vh;
 }
 
 @media only screen 
