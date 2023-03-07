@@ -27,10 +27,11 @@
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) { 
     .RachelKenney{
-        height: 40%;
-        width: 40%;
+        margin-top: 5vh;
+        margin-left: 3vh;
+        height: 20%;
+        width: 20%;
     }
-
     .container-text{
         padding: 2%;
     }
@@ -44,8 +45,10 @@
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) { 
     .RachelKenney{
-        height: 40%;
-        width: 40%;
+        margin-top: 5vh;
+        margin-left: 3vh;
+        height: 20%;
+        width: 20%;
     }
 
     .container-text{
@@ -61,7 +64,10 @@
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) { 
     .RachelKenney{
-        width: 40%;
+        margin-top: 5vh;
+        margin-left: 3vh;
+        height: 20%;
+        width: 20%;
     }
 
     .container-text{

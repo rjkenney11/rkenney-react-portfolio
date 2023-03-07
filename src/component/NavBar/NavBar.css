@@ -1,6 +1,6 @@
 .navbar{
     background-color: #A76759;
-    color:#303030;
+    color:#FAF6F0;
     height: 50px;
 }
 
@@ -24,21 +24,21 @@ and (-webkit-min-device-pixel-ratio: 2)
 and (orientation: portrait) { 
 
     .navbar{
-        background-color: ##A76759;
+        background-color: #A76759;
         color:#303030;
         height: 50px;
     }
     
     .navbar-brand{
-        background-color: #f6bba2;
+        background-color: #A76759;
         font-family: 'Inter', sans-serif;
-        color:#303030;
+        color:#FAF6F0;
     }
     
     #nav-link{
         width: 100%;
         text-align: right;
-        background-color: #779e99;
+        background-color: #A76759;
         font-family: 'Inter', sans-serif;
         color:#FAF6F0;
     }
@@ -52,23 +52,23 @@ and (-webkit-min-device-pixel-ratio: 2)
 and (orientation: portrait) { 
 
     .navbar{
-        background-color: #f6bba2;
-        color:#303030;
+        background-color: #A76759;
+        color:#FAF6F0;
         height: 50px;
     }
     
     .navbar-brand{
-        background-color: #f6bba2;
+        background-color: #A76759;
         font-family: 'Inter', sans-serif;
-        color:#303030;
+        color:#FAF6F0;
     }
     
     #nav-link{
         width: 100%;
         text-align: right;
-        background-color: #779e99;
+        background-color: #A76759;
         font-family: 'Inter', sans-serif;
-        color:#303030;
+        color:#FAF6F0;
     }
 
 } 
