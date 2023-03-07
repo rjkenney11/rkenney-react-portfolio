@@ -43,6 +43,10 @@
     .aboutBody{
         margin-top: 3vh;
     }
+
+    .card-img-top{
+        height: 65vh;
+    }
   
   } 
 
@@ -64,6 +68,10 @@
 
     .aboutBody{
         margin-top: 3vh;
+    }
+
+    .card-img-top{
+        height: 65vh;
     }
     
   
@@ -87,6 +95,10 @@
 
     .aboutBody{
         margin-top: 3vh;
+    }
+
+    .card-img-top{
+        height: 65vh;
     }
     
   
