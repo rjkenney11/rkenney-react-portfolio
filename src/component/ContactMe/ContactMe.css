@@ -36,10 +36,11 @@
     }
 
     #contactBtn{
-        background-color: #779e99;
-        border-color: #779e99;
+        background-color: #A76759;
+        border-color: #A76759;
         font-family: 'Inter', sans-serif;
-        color:black;
+        color:#FAF6F0;
+        font-weight: 100;
     }
     
   
@@ -53,10 +54,11 @@
 
 
     #contactBtn{
-        background-color: #779e99;
-        border-color: #779e99;
+        background-color: #A76759;
+        border-color: #A76759;
         font-family: 'Inter', sans-serif;
-        color:black;
+        color:#FAF6F0;
+        font-weight: 100;
     }
     
   
