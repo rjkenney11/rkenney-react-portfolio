@@ -1,5 +1,4 @@
 import React from "react";
-import NavBar from "../../NavBar/NavBar";
 // import { Link } from "react-router-dom";
 
 import "./AboutMe.css";
@@ -10,7 +9,6 @@ function AboutMe() {
             <img className="card-img-top" src="https://user-images.githubusercontent.com/74163812/123679757-e1d9eb00-d815-11eb-82ec-7f1cc84738f1.png" alt="Rachel-Banner"></img>
              <hr></hr>
             <hr></hr>
-            <NavBar/>
             <div className="container-text">
                 <h1 className="display-4">About Me</h1>
                 <img className="RachelKenney"
