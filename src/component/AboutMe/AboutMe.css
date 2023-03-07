@@ -21,6 +21,10 @@
     height: 65vh;
 }
 
+.aboutBody{
+    margin-top: 3vh;
+}
+
 @media only screen 
   and (min-device-width: 320px) 
   and (max-device-width: 480px)
@@ -36,6 +40,9 @@
         padding: 2%;
     }
     
+    .aboutBody{
+        margin-top: 3vh;
+    }
   
   } 
 
@@ -53,6 +60,10 @@
 
     .container-text{
         padding: 2%;
+    }
+
+    .aboutBody{
+        margin-top: 3vh;
     }
     
   
@@ -72,6 +83,10 @@
 
     .container-text{
         padding: 2%;
+    }
+
+    .aboutBody{
+        margin-top: 3vh;
     }
     
   

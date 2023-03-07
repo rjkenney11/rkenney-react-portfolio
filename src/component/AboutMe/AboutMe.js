@@ -13,8 +13,7 @@ function AboutMe() {
                     src="https://user-images.githubusercontent.com/74163812/223309376-3cec3ecf-d88b-4c63-909d-9be32c4dac24.png"
                     ALIGN="right" alt="a girl with red hair"></img>
                 {/* <p className="lead">Hello and مرحبا !</p> */}
-                <hr/>
-                <p>My name is Rachel Kenney and I have a passion for design and creating fun user experiences, often incorporating self-made graphics and illustrations in the process. </p>
+                <p className= "aboutBody">My name is Rachel Kenney and I have a passion for design and creating fun user experiences, often incorporating self-made graphics and illustrations in the process. </p>
                 <p>I graduated from the University of Maryland, College Park in 2015 with a Bachelor of Arts in Arabic Studies and was recently given the opportunity to pursue a Full-Stack Web Development certification through Johns Hopkins University and successfully completed the course with an "A" average in May of 2021. I am eagerly looking forward to pursuing a career as a Full-Stack Web Developer as it scratches my creative itch, keeps my mind engaged and encourages me to be a lifelong learner.</p>
                 <p>If you look through my portfolio, you will find that I have a playful style with lots of reach-out-and-grab-you imagery.</p>
                     {/* <p>A few facts about me:
