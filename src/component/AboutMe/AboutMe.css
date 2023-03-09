@@ -71,7 +71,10 @@
     }
 
     .card-img-top{
-        height: 65vh;
+        height: auto;
+        max-width: 100%;
+        position: relative;
+        width: auto;
     }
     
   
@@ -98,7 +101,10 @@
     }
 
     .card-img-top{
-        height: 65vh;
+        height: auto;
+        max-width: 100%;
+        position: relative;
+        width: auto;
     }
     
   
